@@ -3,4 +3,5 @@ someFiles/*.c
 
 cpp/*.o
 cpp/*.gch
+cpp/note
 
