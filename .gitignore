@@ -1,10 +1,6 @@
 someFiles/*.c
 !someFiles/note.c
 
-# Binary Files
-someFiles/**/.out
-someFiles/**/*.bin
-someFiles/**/*.exe
-someFiles/**/*.o
-someFiles/**/*.a
-someFiles**/*.so
+cpp/*.o
+cpp/*.gch
+
