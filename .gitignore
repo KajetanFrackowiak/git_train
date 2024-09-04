@@ -2,9 +2,9 @@ someFiles/*.c
 !someFiles/note.c
 
 # Binary Files
-**/*.out
-**/*.bin
-**/*.exe
-**/*.o
-**/*.a
-**/*.so
+someFiles/**/.out
+someFiles/**/*.bin
+someFiles/**/*.exe
+someFiles/**/*.o
+someFiles/**/*.a
+someFiles**/*.so
