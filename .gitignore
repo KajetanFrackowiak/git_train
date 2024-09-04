@@ -1,1 +1,2 @@
-data
+someFiles/*.c
+!someFile/note.c
