@@ -1,8 +1,6 @@
 someFiles/*.c
 !someFiles/note.c
 
-cpp/*.o
-cpp/*.gch
-cpp/note*
-!cpp/note.cpp
+cpp/note
+
 
