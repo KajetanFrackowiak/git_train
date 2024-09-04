@@ -1,2 +1,10 @@
 someFiles/*.c
 !someFiles/note.c
+
+# Binary Files
+**/*.out
+**/*.bin
+**/*.exe
+**/*.o
+**/*.a
+**/*.so
