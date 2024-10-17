@@ -1,0 +1,3 @@
+[submodule "AssemblerTasks"]
+	path = AssemblerTasks
+	url = https://github.com/KajetanFrackowiak/AssemblerTasks.git
